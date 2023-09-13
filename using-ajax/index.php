@@ -66,7 +66,7 @@ get_header(); ?>
       <div class="js-spinner d-none">
         <img height="100" width="100" src="<?php echo get_template_directory_uri(); ?>/assets/images/loader.svg">
       </div>
-      <button class="btn btn-primary-light js-load-more" data-current-page="1">
+      <button class="btn btn-primary-light js-load-more">
         Load More
       </button>
     </div>
